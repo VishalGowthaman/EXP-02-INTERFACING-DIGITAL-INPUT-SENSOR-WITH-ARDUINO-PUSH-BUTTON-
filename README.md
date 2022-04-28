@@ -93,5 +93,5 @@ void loop()
 
 Output of the simulation :
 
-![](Screenshot(3).png)
+![](Screenshot (3).png)
 
