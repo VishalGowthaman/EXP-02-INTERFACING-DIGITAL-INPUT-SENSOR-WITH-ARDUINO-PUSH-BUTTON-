@@ -93,5 +93,5 @@ void loop()
 
 Output of the simulation :
 
-![](Screenshot (3).png)
+![](https://github.com/VishalGowthaman/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/Screenshot%20(3).png)
 
