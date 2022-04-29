@@ -95,3 +95,4 @@ Output of the simulation :
 
 ![](https://github.com/VishalGowthaman/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/Screenshot%20(3).png)
 
+RESULT :Thus we have made the led blink by interfacing the digital input(push button).
