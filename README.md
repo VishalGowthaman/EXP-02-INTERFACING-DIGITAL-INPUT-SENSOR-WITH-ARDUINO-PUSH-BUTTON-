@@ -65,8 +65,8 @@ FIGURE -03
 
 
 
-
-```PROGRAM: 
+```
+PROGRAM: 
  int buttonState = 0;
 void setup()
 {
@@ -82,8 +82,8 @@ void loop()
     digitalWrite(2, LOW);
   }
   delay(10);
-}```
-
+}
+```
  
  
  
