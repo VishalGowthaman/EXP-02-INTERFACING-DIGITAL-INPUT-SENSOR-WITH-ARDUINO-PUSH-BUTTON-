@@ -66,7 +66,7 @@ FIGURE -03
 
 
 
-PROGRAM 
+PROGRAM: 
  int buttonState = 0;
 void setup()
 {
